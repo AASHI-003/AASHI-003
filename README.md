@@ -12,6 +12,8 @@ I specialize in data analytics using <strong>Excel, SQL, Power BI, and Python</s
 
 ### 🔍 Current Focus
 - Automating **ERMS Reports** for streamlined data processes.
+- Templated Budget & Management System – Standardized input, approvals, and dashboards.
+- Pipeline Creation – Reliable ingestion, transformation, and distribution of ERMS and budget data.
 
 ---
 
